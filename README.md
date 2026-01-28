@@ -1,10 +1,11 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**KomalBains/KomalBains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Komal Bains! 
 
 I’m a Data Scientist and Analytics Engineer with a passion for turning data into insights that drive real business impact. I help companies solve complex problems using data, machine learning, and analytics.
-Currently, I work at Verizon, where I build systems that detect fraud and risk on large-scale transactional data. My work has helped prevent over $20M in losses and created dashboards that make data easy to understand for business leaders.
+
+Currently, I work at Verizon, where I build systems that detect fraud and risk on large scale transactional data. My work has helped prevent over $20M in losses and created dashboards that make data easy to understand for business leaders.
+
 I’m also a graduate student in Artificial Intelligence at the University of North Texas, with a strong foundation in machine learning, data science, and software engineering.
 
 What I Do
